@@ -1,0 +1,96 @@
+<div class="card" style="padding: 3%;">
+  <form [formGroup]="scheduleForm">
+    <div *ngIf="dataLoaded">
+      <label style="color:rgb(244, 164, 58); font-size: 20px;">Sunday</label>
+      <br>
+      <ng-container *ngIf="finalSchedule">
+        <span *ngIf="finalSchedule[0]" style="margin-left: 10px;">✅ {{ finalSchedule[0].firstName }} Already scheduled
+          for
+          today </span>
+      </ng-container>
+      <select class="form-select" formControlName="sunday" style="background-color: rgb(251, 237, 219);">
+        <option value="1" *ngFor="let volunteer of this.scheduleForSelect![0].v" [ngValue]="volunteer">{{
+          volunteer.firstName }}
+        </option>
+      </select>
+
+      <label style="color:rgb(244, 164, 58); font-size: 20px">Monday</label>
+      <br>
+      <ng-container *ngIf="finalSchedule">
+        <span *ngIf="finalSchedule[1]" style="margin-left: 10px;">✅ {{ finalSchedule[1].firstName }} Already scheduled
+          for
+          today </span>
+      </ng-container>
+      <select class="form-select" formControlName="monday" style="background-color: rgb(251, 237, 219);">
+        <option value="1" *ngFor="let volunteer of this.scheduleForSelect![1].v" [ngValue]="volunteer">{{
+          volunteer.firstName }}
+        </option>
+      </select>
+      <br>
+
+
+      <label style="color:rgb(244, 164, 58); font-size: 20px">Tuesday</label>
+      <br>
+      <ng-container *ngIf="finalSchedule">
+        <span *ngIf="finalSchedule[2]" style="margin-left: 10px;">✅ {{ finalSchedule[2].firstName }} Already scheduled
+          for
+          today </span>
+      </ng-container>
+      <select class="form-select" formControlName="tuesday" style="background-color: rgb(251, 237, 219);">
+        <option value="1" *ngFor="let volunteer of this.scheduleForSelect![2].v" [ngValue]="volunteer">{{
+          volunteer.firstName }}
+        </option>
+      </select>
+      <br>
+
+
+      <label style="color:rgb(244, 164, 58); font-size: 20px">Wednesday</label>
+      <br>
+      <ng-container *ngIf="finalSchedule">
+        <span *ngIf="finalSchedule[3]" style="margin-left: 10px;">✅ {{ finalSchedule[3].firstName }} Already scheduled
+          for
+          today </span>
+      </ng-container>
+      <select class="form-select" formControlName="wednesday" style="background-color: rgb(251, 237, 219);">
+        <option value="1" *ngFor="let volunteer of this.scheduleForSelect![3].v" [ngValue]="volunteer">{{
+          volunteer.firstName }}
+        </option>
+      </select>
+      <br>
+
+
+      <label style="color:rgb(244, 164, 58); font-size: 20px">Thursday</label>
+      <br>
+      <ng-container *ngIf="finalSchedule">
+        <span *ngIf="finalSchedule[4]" style="margin-left: 10px;">✅ {{ finalSchedule[4].firstName }} Already scheduled
+          for
+          today </span>
+      </ng-container>
+      <select class="form-select" formControlName="thursday" style="background-color: rgb(251, 237, 219);">
+        <option value="1" *ngFor="let volunteer of this.scheduleForSelect![4].v" [ngValue]="volunteer">{{
+          volunteer.firstName }}
+        </option>
+      </select>
+      <br>
+
+      <label style="color:rgb(244, 164, 58); font-size: 20px">Friday</label>
+      <br>
+      <ng-container *ngIf="finalSchedule">
+        <span *ngIf="finalSchedule[5]" style="margin-left: 10px;">✅ {{ finalSchedule[5].firstName }} Already scheduled
+          for
+          today </span>
+      </ng-container>
+      <select class="form-select" formControlName="friday" style="background-color: rgb(251, 237, 219);">
+        <option value="1" *ngFor="let volunteer of this.scheduleForSelect![5].v" [ngValue]="volunteer">{{
+          volunteer.firstName }}
+        </option>
+      </select>
+      <br>
+
+    </div>
+  </form>
+  <br>
+  <button type="submit" class="btn btn-primary" (click)="saveSchedule()"
+    style="background-color:rgb(249, 160, 45); font-size: 20px ;border-color: rgb(249, 160, 45);">Submit</button>
+</div>bo
+<br>

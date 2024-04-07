@@ -1,0 +1,54 @@
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\bin\Debug\net6.0\appsettings.Development.json
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\bin\Debug\net6.0\appsettings.json
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\bin\Debug\net6.0\Project-volunteers.exe
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\bin\Debug\net6.0\Project-volunteers.deps.json
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\bin\Debug\net6.0\Project-volunteers.runtimeconfig.json
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\bin\Debug\net6.0\Project-volunteers.dll
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\bin\Debug\net6.0\Project-volunteers.pdb
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\obj\Debug\net6.0\Project-volunteers.csproj.AssemblyReference.cache
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\obj\Debug\net6.0\Project-volunteers.GeneratedMSBuildEditorConfig.editorconfig
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\obj\Debug\net6.0\Project-volunteers.AssemblyInfoInputs.cache
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\obj\Debug\net6.0\Project-volunteers.AssemblyInfo.cs
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\obj\Debug\net6.0\Project-volunteers.csproj.CoreCompileInputs.cache
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\obj\Debug\net6.0\Project-volunteers.MvcApplicationPartsAssemblyInfo.cs
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\obj\Debug\net6.0\Project-volunteers.MvcApplicationPartsAssemblyInfo.cache
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\obj\Debug\net6.0\staticwebassets.build.json
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\obj\Debug\net6.0\staticwebassets.development.json
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\obj\Debug\net6.0\scopedcss\bundle\Project-volunteers.styles.css
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\obj\Debug\net6.0\Project-volunteers.csproj.CopyComplete
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\obj\Debug\net6.0\Project-volunteers.dll
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\obj\Debug\net6.0\refint\Project-volunteers.dll
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\obj\Debug\net6.0\Project-volunteers.pdb
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\obj\Debug\net6.0\Project-volunteers.genruntimeconfig.cache
+D:\yearB\angular\הפרויקט הסופי\Project-volunteers\obj\Debug\net6.0\ref\Project-volunteers.dll
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\bin\Debug\net6.0\appsettings.Development.json
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\bin\Debug\net6.0\appsettings.json
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\bin\Debug\net6.0\Project-volunteers.exe
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\bin\Debug\net6.0\Project-volunteers.deps.json
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\bin\Debug\net6.0\Project-volunteers.runtimeconfig.json
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\bin\Debug\net6.0\Project-volunteers.dll
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\bin\Debug\net6.0\Project-volunteers.pdb
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\obj\Debug\net6.0\Project-volunteers.csproj.AssemblyReference.cache
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\obj\Debug\net6.0\Project-volunteers.GeneratedMSBuildEditorConfig.editorconfig
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\obj\Debug\net6.0\Project-volunteers.AssemblyInfoInputs.cache
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\obj\Debug\net6.0\Project-volunteers.AssemblyInfo.cs
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\obj\Debug\net6.0\Project-volunteers.csproj.CoreCompileInputs.cache
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\obj\Debug\net6.0\Project-volunteers.MvcApplicationPartsAssemblyInfo.cs
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\obj\Debug\net6.0\Project-volunteers.MvcApplicationPartsAssemblyInfo.cache
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\obj\Debug\net6.0\staticwebassets.build.json
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\obj\Debug\net6.0\staticwebassets.development.json
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\obj\Debug\net6.0\scopedcss\bundle\Project-volunteers.styles.css
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\obj\Debug\net6.0\Project-volunteers.csproj.CopyComplete
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\obj\Debug\net6.0\Project-volunteers.dll
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\obj\Debug\net6.0\refint\Project-volunteers.dll
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\obj\Debug\net6.0\Project-volunteers.pdb
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\obj\Debug\net6.0\Project-volunteers.genruntimeconfig.cache
+D:\yearB\angular\פרויקט סוף קורס-מתנדבים\Project-volunteers-server\obj\Debug\net6.0\ref\Project-volunteers.dll

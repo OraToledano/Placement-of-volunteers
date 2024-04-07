@@ -1,0 +1,48 @@
+
+<br>
+<br>
+<div class="card" style="padding: 1%;width: 90%; left: 4%;">
+<form [formGroup]="detailsForm"> 
+  <div class="mb-3">
+    <label class="form-label">First name</label>
+    <input type="text" formControlName="first_name" placeholder="First Name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" style="background-color: rgb(251, 237, 219);" >
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Last name</label>
+    <input type="text" formControlName="last_name" placeholder="Last Name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" style="background-color: rgb(251, 237, 219);">
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Phone</label>
+    <input type="tel" formControlName="phone" placeholder="Phone Number" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" style="background-color: rgb(251, 237, 219);">
+  </div>
+
+  <div class="mb-3 form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1" formControlName="sun">
+    <label class="form-check-label" for="exampleCheck1">Sunday</label>
+  </div>
+  <div class="mb-3 form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1" formControlName="mon">
+    <label class="form-check-label" for="exampleCheck1">Monday</label>
+  </div>
+  <div class="mb-3 form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1" formControlName="thu">
+    <label class="form-check-label" for="exampleCheck1">Tuesday</label>
+  </div>
+  <div class="mb-3 form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1" formControlName="wen">
+    <label class="form-check-label" for="exampleCheck1">Wednesday</label>
+  </div>
+  <div class="mb-3 form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1" formControlName="tur">
+    <label class="form-check-label" for="exampleCheck1">Thursday</label>
+  </div>
+  <div class="mb-3 form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1" formControlName="fri">
+    <label class="form-check-label" for="exampleCheck1">Friday</label>
+  </div>
+
+  <button type="submit" class="btn btn-primary" (click)="saveVolunteer()"  style="background-color:rgb(249, 160, 45);border-color: rgb(249, 160, 45);">Submit</button>
+ 
+</form>
+</div>
+
